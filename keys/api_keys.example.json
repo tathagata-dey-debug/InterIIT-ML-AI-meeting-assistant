@@ -1,0 +1,10 @@
+{
+  "STT_PROVIDER": "gemini",
+  "OPENAI_API_KEY": "sk-your-openai-key-here",
+  "LLM_PROVIDER": "gemini",
+  "GEMINI_API_KEYS": [
+    "AIzaSy-primary-key",
+    "AIzaSy-backup-key"
+  ],
+  "GEMINI_API_KEY": "AIzaSy-fallback-single-key"
+}
